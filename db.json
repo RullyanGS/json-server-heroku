@@ -74,15 +74,113 @@
     }
   ],
   "pesagens": [
+    {
+      "nomeAnimal": "Anita",
+      "brinco": "23",
+      "peso": "573",
+      "dataPesagem": "2021-09-14",
+      "id": 1
+    },
+    {
+      "nomeAnimal": "Anita",
+      "brinco": "23",
+      "peso": "589",
+      "dataPesagem": "2021-08-19",
+      "id": 2
+    },
+    {
+      "nomeAnimal": "Simara",
+      "brinco": "27",
+      "peso": "563",
+      "dataPesagem": "2021-04-07",
+      "id": 3
+    },
+    {
+      "nomeAnimal": "Safira",
+      "brinco": "9736",
+      "peso": "564",
+      "dataPesagem": "2021-04-02",
+      "id": 4
+    },
+    {
+      "nomeAnimal": "Princesa",
+      "brinco": "4",
+      "peso": "512",
+      "dataPesagem": "2021-03-31",
+      "id": 5
+    }
   ],
   "descartes": [
+    {
+      "nomeAnimal": "Santana",
+      "brinco": "6832",
+      "motivo": "venda",
+      "causa": "Não produz mais leite",
+      "dataDescarte": "2021-12-12",
+      "id": 1
+    }
   ],
   "ordenhas": [
+    {
+      "qtdeLitros": "330",
+      "nrFemeas": "20",
+      "dataOrdenhaDiaria": "2021-12-13",
+      "id": 1
+    },
+    {
+      "qtdeLitros": "345",
+      "nrFemeas": "22",
+      "dataOrdenhaDiaria": "2021-12-14",
+      "id": 2
+    },
+    {
+      "qtdeLitros": "332",
+      "nrFemeas": "22",
+      "dataOrdenhaDiaria": "2021-12-15",
+      "id": 3
+    }
   ],
   "vacinas": [
+    {
+      "nomeAnimal": "Aira",
+      "brinco": "7653",
+      "nomePatologia": "Febre Aftosa",
+      "nomeMedicamento": "Ourovac Aftosa",
+      "observacao": "Os principais sintomas são falta de apetite, aftas na boca, gengiva e língua, febre e machucados no casco.",
+      "dataVacinacao": "2021-10-07",
+      "dataLiberacao": "2021-10-21",
+      "id": 1
+    },
+    {
+      "nomeAnimal": "Simara",
+      "brinco": "27",
+      "nomePatologia": "brucelose",
+      "nomeMedicamento": "B19",
+      "observacao": "A B19 proporciona uma proteção de 75 a 80% e é obrigatória em todas as fêmeas na faixa etária de 3 a 8 meses",
+      "dataVacinacao": "2019-08-14",
+      "dataLiberacao": "2019-09-14",
+      "id": 2
+    }
   ],
   "consultas": [
+    {
+      "nomeAnimal": "Princesa",
+      "brinco": "4",
+      "nomeConsulta": "Vaca adoeceu ",
+      "descricaoConsulta": "Vaca não querem mais levantar",
+      "dataConsulta": "2021-12-23",
+      "id": 1
+    }
   ],
   "eventos": [
+    {
+      "nomeAnimal": "Anita",
+      "brinco": "23",
+      "nomeEvento": "cio",
+      "dataEvento": "2021-12-14",
+      "dataProximoEvento": "2021-12-15",
+      "descricaoEvento": " Realizar inseminação",
+      "id": 1
+    }
   ]
 }
