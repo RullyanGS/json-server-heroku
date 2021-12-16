@@ -1,0 +1,88 @@
+{
+  "animais": [
+    {
+      "nomeAnimal": "Aira",
+      "brinco": "7653",
+      "dataNascimento": "2019-05-03",
+      "sexo": "F",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 1
+    },
+    {
+      "nomeAnimal": "Princesa",
+      "brinco": "4",
+      "dataNascimento": "2018-08-23",
+      "sexo": "F",
+      "origem": "Nascimento",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 2
+    },
+    {
+      "nomeAnimal": "Simara",
+      "brinco": "27",
+      "dataNascimento": "2019-02-14",
+      "sexo": "F",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 3
+    },
+    {
+      "nomeAnimal": "Santana",
+      "brinco": "6832",
+      "dataNascimento": "2020-06-18",
+      "sexo": "F",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 4
+    },
+    {
+      "nomeAnimal": "Anita",
+      "brinco": "23",
+      "dataNascimento": "2018-05-16",
+      "sexo": "F",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 5
+    },
+    {
+      "nomeAnimal": "Safira",
+      "brinco": "9736",
+      "dataNascimento": "2019-07-26",
+      "sexo": "F",
+      "origem": "Nascimento",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 6
+    }
+  ],
+  "pesagens": [
+  ],
+  "descartes": [
+  ],
+  "ordenhas": [
+  ],
+  "vacinas": [
+  ],
+  "consultas": [
+  ],
+  "eventos": [
+  ]
+}
