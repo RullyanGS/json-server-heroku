@@ -50,7 +50,7 @@
     },
     {
       "nomeAnimal": "Anita",
-      "brinco": "23",
+      "brinco": "2375",
       "dataNascimento": "2018-05-16",
       "sexo": "F",
       "origem": "Compra",
@@ -100,14 +100,14 @@
   "pesagens": [
     {
       "nomeAnimal": "Anita",
-      "brinco": "23",
+      "brinco": "2375",
       "peso": "573",
       "dataPesagem": "2021-09-14",
       "id": 1
     },
     {
       "nomeAnimal": "Anita",
-      "brinco": "23",
+      "brinco": "2375",
       "peso": "589",
       "dataPesagem": "2021-08-19",
       "id": 2
@@ -223,17 +223,17 @@
   "consultas": [
     {
       "nomeAnimal": "Princesa",
-      "brinco": "4",
-      "nomeConsulta": "Vaca adoeceu ",
-      "descricaoConsulta": "Vaca não querem mais levantar",
-      "dataConsulta": "2021-12-23",
+      "brinco": "4365",
+      "nomeConsulta": "Consultar o animal Princesa (brinco: 4365)",
+      "descricaoConsulta": "Vaca permanecem deitadas na maioria do tempo",
+      "dataConsulta": "2022-04-09",
       "id": 1
     }
   ],
   "eventos": [
     {
       "nomeAnimal": "Anita",
-      "brinco": "23",
+      "brinco": "2375",
       "nomeEvento": "cio",
       "dataEvento": "2021-12-14",
       "dataProximoEvento": "2021-12-15",
