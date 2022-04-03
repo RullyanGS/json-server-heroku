@@ -71,6 +71,30 @@
       "nomePai": null,
       "ativo": true,
       "id": 6
+    },
+    {
+      "nomeAnimal": "Brutos",
+      "brinco": "6386",
+      "dataNascimento": "2019-08-14",
+      "sexo": "M",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 7
+    },
+    {
+      "nomeAnimal": "Zeus",
+      "brinco": "6596",
+      "dataNascimento": "2012-03-05",
+      "sexo": "M",
+      "origem": "Compra",
+      "raca": "Holandês Preto e Branco",
+      "nomeMae": null,
+      "nomePai": null,
+      "ativo": true,
+      "id": 8
     }
   ],
   "pesagens": [
@@ -172,7 +196,7 @@
       "nomeMedicamento": "Ourovac Aftosa",
       "observacao": "Os principais sintomas são falta de apetite, aftas na boca, gengiva e língua, febre e machucados no casco.",
       "dataVacinacao": "2022-04-03",
-      "dataLiberacao": "2021-04-10",
+      "dataLiberacao": "2022-04-10",
       "id": 1
     },
     {
