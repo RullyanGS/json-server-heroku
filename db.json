@@ -14,7 +14,7 @@
     },
     {
       "nomeAnimal": "Princesa",
-      "brinco": "4",
+      "brinco": "4365",
       "dataNascimento": "2018-08-23",
       "sexo": "F",
       "origem": "Nascimento",
@@ -26,7 +26,7 @@
     },
     {
       "nomeAnimal": "Simara",
-      "brinco": "27",
+      "brinco": "2727",
       "dataNascimento": "2019-02-14",
       "sexo": "F",
       "origem": "Compra",
@@ -177,7 +177,7 @@
     },
     {
       "nomeAnimal": "Simara",
-      "brinco": "27",
+      "brinco": "2727",
       "nomePatologia": "brucelose",
       "nomeMedicamento": "B19",
       "observacao": "A B19 proporciona uma proteção de 75 a 80% e é obrigatória em todas as fêmeas na faixa etária de 3 a 8 meses",
@@ -186,8 +186,8 @@
       "id": 2
     },
     {
-      "nomeAnimal": "Santana",
-      "brinco": "6832",
+      "nomeAnimal": "Princesa",
+      "brinco": "4365",
       "nomePatologia": "Febre Aftosa",
       "nomeMedicamento": "Ourovac Aftosa",
       "observacao": "Os principais sintomas são falta de apetite, aftas na boca, gengiva e língua, febre e machucados no casco.",
