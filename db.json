@@ -182,7 +182,7 @@
       "nomeMedicamento": "B19",
       "observacao": "A B19 proporciona uma proteção de 75 a 80% e é obrigatória em todas as fêmeas na faixa etária de 3 a 8 meses",
       "dataVacinacao": "2022-04-04",
-      "dataLiberacao": "2021-18-04",
+      "dataLiberacao": "2022-18-04",
       "id": 2
     },
     {
@@ -192,7 +192,7 @@
       "nomeMedicamento": "Ourovac Aftosa",
       "observacao": "Os principais sintomas são falta de apetite, aftas na boca, gengiva e língua, febre e machucados no casco.",
       "dataVacinacao": "2022-03-04",
-      "dataLiberacao": "2021-13-04",
+      "dataLiberacao": "2022-13-04",
       "id": 2
     }
   ],
